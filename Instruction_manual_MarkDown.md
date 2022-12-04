@@ -56,7 +56,7 @@ Git [STGorbunovDA](https://github.com/STGorbunovDA) с тайтлом.
 <https://github.com/STGorbunovDA; – а это безанкорная ссылка.
 
 
-## Работа с таблицами
+## Работа с таблицами и чек-боксами
 
 ## Цитаты
 
