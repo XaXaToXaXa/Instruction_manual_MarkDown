@@ -58,12 +58,16 @@ Git [STGorbunovDA](https://github.com/STGorbunovDA) с тайтлом.
 
 ## Работа с таблицами и чек-боксами
 
-| Language      | Branch         
-| ------------- |:-------------:|
-| Java Script      | javascript  |
-| C++      | cpp      |
-| C# | C Sharp      |
-| Markdown | md      |
+| Language      | Branch | Checked |        
+| ------------- |:-------------:|:-------------:|
+| Java Script      | javascript  |  &#9744;   |
+| C++      | cpp      | &#9744;   |
+| C# | C Sharp      | &#9745; |
+| Markdown | md      | &#9744;   |
+
+| Unchecked | Checked |
+| --------- | ------- |
+| &#9744;   | &#9745; |
 
 ## Цитаты
 
