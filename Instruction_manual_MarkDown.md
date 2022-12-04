@@ -49,6 +49,13 @@
 
 ## Ссылки
 
+Git [STGorbunovDA](https://github.com/STGorbunovDA) с тайтлом.
+
+[STGorbunovDA](http://example.net/) без заголовка.
+
+<https://github.com/STGorbunovDA; – а это безанкорная ссылка.
+
+
 ## Работа с таблицами
 
 ## Цитаты
